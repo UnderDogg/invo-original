@@ -4,6 +4,7 @@ cache/volt/*.php
 ehthumbs.db
 Icon?
 Thumbs.db
+.svn
 .project
 .settings
 .buildpath
